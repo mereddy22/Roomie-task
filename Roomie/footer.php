@@ -5,7 +5,6 @@
 
 
 
-
 <div style="background:black;text-align:center; color:#FFF;">
         &copy Find my Roomie
 </div>
