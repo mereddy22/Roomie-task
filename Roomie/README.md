@@ -3,8 +3,6 @@
 1.1) INTRODUCTION</br>
 The objective of the project is to build a website for students to find accommodation post advertisements and a platform for communication. The website user interface will be designed effectively to understand and utilize the functionalities with ease.
 
-
-
 2.1) REQUIREMENTS<br>
 
 2.1.1 Functional Requirements</br>
